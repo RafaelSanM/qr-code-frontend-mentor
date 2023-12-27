@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshots
 
-![](./desgign/desktop-design.jpg)
+![](./desktop-design.jpg)
 
 ## My process
 
